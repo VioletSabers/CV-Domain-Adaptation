@@ -6,5 +6,5 @@
 **Target Domain：MNIST_M**
 |Method     | Target Acc(paper) | Target Acc(this work)|
 |:----------:|:-----------------:|:---------------------:|
-|Source Only| 0.5225            | 0.5189|
+|Source Only| 0.5225            | 0.5581|
 |DANN       | 0.7666            | 0.7598|``````
