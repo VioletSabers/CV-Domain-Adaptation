@@ -1,7 +1,8 @@
 # DANN实验效果
 
 
-$MNIST \rightarrow MNIST_M$
+**Source Domain：MNIST**
+**Target Domain：MNIST_M**
 |Method     | Target Acc(paper) | Target Acc(this work)|
 |:----------:|:-----------------:|:---------------------:|
 |Source Only| 0.5225            | 0.5189|
